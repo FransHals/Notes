@@ -1,0 +1,24 @@
+# [Dibotics: From LiDAR to Smart LiDAR - raul.bravo@dibotics.com]
+  Professional mobile robots.
+  10 years ago, 2D LiDAR.
+  Dibotics, LiDAR dominates the autonomous driving.
+  To leverage LiDAR data. Much more powerful than what you can think. >cam, > RADAR
+  16 lines.
+    1 - localisation: precise output -> a live 3D map -> REAL-TIME analysis -> no longer processing time!
+        others are doing: anaylise frame per frame, the pic rather than the integrated signals/3D map.
+                          LiDAR manufacturers ~ HW, users of LiDAR.
+        - at point level rather than object level.
+   
+ ** instead of GPU/HD Cam, using a chip. no ML, no AI -> no fuss for complex algorithms!
+ make the output richer.
+    2 - (for CyberValet)
+    calibration is nightmare.
+    
+    Security tracking -> difficult for cams(2D rahter than 3D) -> 3D LiDAR, 3D understanding
+    
+    //not selling product/IP, rather, smart LiDAR/ LiDAR in CPU/selling product or IP.
+# [CVS:entity, btw Cisco & Valeo, to operate the service of CyberValet - Ovidiu B]
+ CyberValet: Valeo Scala. A component implanted on the car.
+ 
+ [sign NDA wiz Cisco and Valeo.]
+ 
