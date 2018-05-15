@@ -1,0 +1,7 @@
+Click [esc], enter command line mode.
+：w #write
+:q #quit
+:x #wq
+:[shift]+[z][z]
+:q! #quit without saving
+#! #quit anyway
